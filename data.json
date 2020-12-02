@@ -1,0 +1,55 @@
+{
+	"details":{
+		"name":" Bonu.Mohan sumanth",
+		"image":"profile.png",
+		"email":"mohansumanth07@gmail.com",
+		"number":"8500647657",
+		"Address":" bobbili"
+	},
+	"careerobjective":{
+		"info":"To become a software developer"
+	},
+	"educationalqualification":[
+		{
+			"institute":"AITAM college",
+			"degree":"B.Tech",
+			"passoutyear":"2020",
+			"percentage":"69%"
+		},
+
+		{
+			"institute":"SASI college",
+			"degree":"Intermediate",
+			"passoutyear":"2016",
+			"percentage":"96%"
+
+		},
+
+		{
+			"institute":"Abhyudaya school",
+			"degree":"10th",
+			"passoutyear":"2014",
+			"percentage":"92%"
+		}
+
+	],
+
+	"technincalskills":[
+		{
+			"title":"programming languages",
+			"info":["c,c++,java,python,html"]
+		},
+
+		{
+			"title":"database",
+			"info":["mysql,oracle,sql"]
+
+		},
+
+		{
+			"title":"operating system",
+			"info":["windows,ubuntu"]
+		}
+
+	]
+} 
